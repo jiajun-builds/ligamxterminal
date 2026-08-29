@@ -2,7 +2,7 @@
   "meta": {
     "competition_code": "MEX",
     "season": "Apertura 2026",
-    "updated_at": "2026-08-29T00:41:26+00:00"
+    "updated_at": "2026-08-29T00:46:33+00:00"
   },
   "rows": [
     {
@@ -34,9 +34,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-20T02:01:06Z",
-      "price_age_h": 214.7,
+      "price_age_h": 214.8,
       "last_update": "2026-08-20T01:10:51.534Z",
-      "fetched_at": "2026-08-29T00:41:25Z"
+      "fetched_at": "2026-08-29T00:46:33Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-28-atlante-leon",
@@ -67,9 +67,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-20T01:16:09Z",
-      "price_age_h": 215.4,
+      "price_age_h": 215.5,
       "last_update": "2026-08-20T00:59:48.014Z",
-      "fetched_at": "2026-08-29T00:41:25Z"
+      "fetched_at": "2026-08-29T00:46:33Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-28-tijuana-unam-pumas",
@@ -100,9 +100,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-20T02:01:06Z",
-      "price_age_h": 214.7,
+      "price_age_h": 214.8,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:41:25Z"
+      "fetched_at": "2026-08-29T00:46:33Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-29-pachuca-guadalajara",
@@ -133,9 +133,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T12:45:19Z",
-      "price_age_h": 155.9,
+      "price_age_h": 156,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:41:25Z"
+      "fetched_at": "2026-08-29T00:46:33Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-29-atlas-queretaro",
@@ -166,9 +166,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T12:45:19Z",
-      "price_age_h": 155.9,
+      "price_age_h": 156,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:41:25Z"
+      "fetched_at": "2026-08-29T00:46:33Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-29-club-america-puebla",
@@ -199,9 +199,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T15:15:31Z",
-      "price_age_h": 153.4,
+      "price_age_h": 153.5,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:41:25Z"
+      "fetched_at": "2026-08-29T00:46:33Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-29-santos-laguna-tigres-uanl",
@@ -232,9 +232,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T12:45:19Z",
-      "price_age_h": 155.9,
+      "price_age_h": 156,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:41:25Z"
+      "fetched_at": "2026-08-29T00:46:33Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-30-toluca-fc-juarez",
@@ -265,9 +265,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T12:45:19Z",
-      "price_age_h": 155.9,
+      "price_age_h": 156,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:41:25Z"
+      "fetched_at": "2026-08-29T00:46:33Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-30-monterrey-atletico-san-luis",
@@ -298,9 +298,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T13:45:35Z",
-      "price_age_h": 154.9,
+      "price_age_h": 155,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:41:25Z"
+      "fetched_at": "2026-08-29T00:46:33Z"
     }
   ]
 }
