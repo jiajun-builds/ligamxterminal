@@ -2,75 +2,9 @@
   "meta": {
     "competition_code": "MEX",
     "season": "Apertura 2026",
-    "updated_at": "2026-08-29T00:51:32+00:00"
+    "updated_at": "2026-08-29T01:01:25+00:00"
   },
   "rows": [
-    {
-      "fixture_id": "MEX-apertura-2026-6-2026-08-28-necaxa-cruz-azul",
-      "home_team": "Necaxa",
-      "away_team": "Cruz Azul",
-      "round": 6,
-      "match_time": "19:00",
-      "kickoff_at": "2026-08-29T01:00:00Z",
-      "home_win_prob": 0.3186164361940444,
-      "draw_prob": 0.2435171751939532,
-      "away_win_prob": 0.4378663886120023,
-      "home_odds": 3.8,
-      "draw_odds": 3.85,
-      "away_odds": 1.93,
-      "home_book": "duel",
-      "draw_book": "duel",
-      "away_book": "duel",
-      "home_ev": 21.074,
-      "draw_ev": -6.246,
-      "away_ev": -15.492,
-      "signal_pick": "home",
-      "signal_state": "bet",
-      "bookmaker": "duel",
-      "price_proof": "observed",
-      "pinnacle_home_odds": null,
-      "pinnacle_draw_odds": null,
-      "pinnacle_away_odds": null,
-      "pinnacle_last_update": null,
-      "pinnacle_fetched_at": null,
-      "price_captured_at": "2026-08-20T02:01:06Z",
-      "price_age_h": 214.8,
-      "last_update": "2026-08-20T01:10:51.534Z",
-      "fetched_at": "2026-08-29T00:51:32Z"
-    },
-    {
-      "fixture_id": "MEX-apertura-2026-6-2026-08-28-atlante-leon",
-      "home_team": "Atlante",
-      "away_team": "Leon",
-      "round": 6,
-      "match_time": "19:00",
-      "kickoff_at": "2026-08-29T01:00:00Z",
-      "home_win_prob": 0.5307244758335266,
-      "draw_prob": 0.2436671992511474,
-      "away_win_prob": 0.2256083249153259,
-      "home_odds": 3.2,
-      "draw_odds": 3.55,
-      "away_odds": 2.24,
-      "home_book": "duel",
-      "draw_book": "duel",
-      "away_book": "duel",
-      "home_ev": 69.832,
-      "draw_ev": -13.498,
-      "away_ev": -49.464,
-      "signal_pick": "home",
-      "signal_state": "bet",
-      "bookmaker": "duel",
-      "price_proof": "observed",
-      "pinnacle_home_odds": null,
-      "pinnacle_draw_odds": null,
-      "pinnacle_away_odds": null,
-      "pinnacle_last_update": null,
-      "pinnacle_fetched_at": null,
-      "price_captured_at": "2026-08-20T01:16:09Z",
-      "price_age_h": 215.6,
-      "last_update": "2026-08-20T00:59:48.014Z",
-      "fetched_at": "2026-08-29T00:51:32Z"
-    },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-28-tijuana-unam-pumas",
       "home_team": "Tijuana",
@@ -100,9 +34,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-20T02:01:06Z",
-      "price_age_h": 214.8,
+      "price_age_h": 215,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:51:32Z"
+      "fetched_at": "2026-08-29T01:01:24Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-29-pachuca-guadalajara",
@@ -133,9 +67,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T12:45:19Z",
-      "price_age_h": 156.1,
+      "price_age_h": 156.3,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:51:32Z"
+      "fetched_at": "2026-08-29T01:01:24Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-29-atlas-queretaro",
@@ -166,9 +100,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T12:45:19Z",
-      "price_age_h": 156.1,
+      "price_age_h": 156.3,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:51:32Z"
+      "fetched_at": "2026-08-29T01:01:24Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-29-club-america-puebla",
@@ -199,9 +133,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T15:15:31Z",
-      "price_age_h": 153.6,
+      "price_age_h": 153.8,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:51:32Z"
+      "fetched_at": "2026-08-29T01:01:24Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-29-santos-laguna-tigres-uanl",
@@ -232,9 +166,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T12:45:19Z",
-      "price_age_h": 156.1,
+      "price_age_h": 156.3,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:51:32Z"
+      "fetched_at": "2026-08-29T01:01:24Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-30-toluca-fc-juarez",
@@ -265,9 +199,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T12:45:19Z",
-      "price_age_h": 156.1,
+      "price_age_h": 156.3,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:51:32Z"
+      "fetched_at": "2026-08-29T01:01:24Z"
     },
     {
       "fixture_id": "MEX-apertura-2026-6-2026-08-30-monterrey-atletico-san-luis",
@@ -298,9 +232,9 @@
       "pinnacle_last_update": null,
       "pinnacle_fetched_at": null,
       "price_captured_at": "2026-08-22T13:45:35Z",
-      "price_age_h": 155.1,
+      "price_age_h": 155.3,
       "last_update": null,
-      "fetched_at": "2026-08-29T00:51:32Z"
+      "fetched_at": "2026-08-29T01:01:24Z"
     }
   ]
 }
